@@ -11,3 +11,7 @@
 Test
 
 Test one more time
+
+###Copyright
+
+Git.Training
