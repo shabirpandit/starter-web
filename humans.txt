@@ -3,6 +3,8 @@
 
 # TEAM
 
+	shabirpandit@gmail.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
