@@ -15,3 +15,5 @@ Test one more time
 ###Copyright
 
 Git.Training
+
+###How to Contribute
